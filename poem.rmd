@@ -24,3 +24,40 @@ you, if you change any of this the git program will notice it and compromise you
 
 ## Last Verse
 <!--Put a short poem you created using chatGPT of 20 to 30 lines,here!-->
+In panes of quiet gray it waits,    
+A studio built of code and light,   
+Where data wakes and recreates    
+Its hidden patterns out of night.   
+
+A console whispers > in blue,   
+Inviting thoughts to take their form,   
+While scripts align in careful view   
+Against the crash of error’s storm.   
+
+Objects bloom in tidy rows,   
+In Environment’s ordered frame,   
+Each tibble neatly stacked and posed,   
+Each column bearing truth’s small flame.    
+
+Plots arise like sudden art,    
+From ggplot’s layered grammar spun—   
+A scatter, bar, or pie-chart heart,   
+Where variables and vision run.   
+
+Markdown threads the text with thought,   
+Weaving code and voice as one,    
+So stories from the data wrought    
+Shine bright as if by sun.    
+
+Packages drift from CRAN’s wide sea,    
+Libraries of crafted skill,   
+Installed with quiet ceremony,    
+Called forth at will.   
+
+And when the bugs begin to creep,   
+Traceback follows where they hide;    
+Step by step, through loops so deep,    
+Logic stands reclaimed with pride.  
+
+O RStudio, steady guide,  
+Through vectors, frames, and modeling’s art—  
